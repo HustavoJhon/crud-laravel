@@ -1,5 +1,6 @@
 # PHP & MYSQL & PHPMYADMIN & DOCKER
 
+[![Laravel](https://img.shields.io/badge/3.11.2-black?style=flat&logo=laravel)](https://github.com/hustavoJhon/basic/)
 
 ```bash
 sail php artisan migrate
